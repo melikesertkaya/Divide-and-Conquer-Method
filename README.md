@@ -1,2 +1,2 @@
 # Divide-and-Conquer-Method
- Dollar Exchange Rate Calculator
+Max Min Exchange Rate Calculation
